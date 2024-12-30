@@ -1,0 +1,1233 @@
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+<TITLE>SN7404 datasheet(1/7 Pages) TI | These devices contain six independent inverters </TITLE>
+<meta name="description" content="Part #: SN7404. Description: These devices contain six independent inverters. Page: 7. Manufacturer: Texas Instruments.">
+
+<meta name="keywords" content="SN7404 html Datasheet, SN7404 html datasheets, SN7404 data sheets, SN7404 manual, SN7404 fulltext, SN7404 bodytext">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net">
+<link rel="dns-prefetch" href="//www.googletagservices.com">
+<link rel="dns-prefetch" href="//www.gstatic.com">
+<link rel="dns-prefetch" href="//pixel-geo.prfct.co">
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//search.supplyframe.com">
+<link rel="dns-prefetch" href="//ads.supplyframe.com">
+<link rel="dns-prefetch" href="//secure.adnxs.com">
+<meta name="author" content="www.alldatasheet.com">
+<meta name="viewport" content="user-scalable=yes, initial-scale=1.0, width=device-width">
+<meta name="robots" content="max-snippet:-1, max-image-preview:large">
+<meta property="og:title" content="SN7404 datasheet(1/7 Pages) TI"/>
+<meta property="og:image" content="https://www.alldatasheet.com/img/alldatasheet_other/etc/oglogo.jpg"/>
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="100" />
+<meta property="og:url" content="http://www.alldatasheet.com/html-pdf/27349/TI/SN7404/20/1/SN7404.html"/>
+<meta property="og:description" content=" Datasheet search, datasheets, Datasheet search site for Electronic Components and Semiconductors, integrated circuits, diodes, triacs and other semiconductors."/>
+<link rel="image_src" href="/htmldatasheet/27349/TI/SN7404/38/1/SN7404.gif"/>				
+<LINK REL="SHORTCUT ICON" HREF="/img/favicon.ico">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+d_m=7;nCP=1;
+-->
+	</SCRIPT>
+<!-- <SCRIPT LANGUAGE="JavaScript" src="/html-pdf/pdf-view.js"></SCRIPT> -->
+<SCRIPT LANGUAGE="JavaScript" src="/js/html_view.js?v=5"></SCRIPT>
+
+<script language="JavaScript">
+var A_TPL4h = {
+'b_vertical' : false,
+'b_watch': true,
+'n_controlWidth': 180,
+'n_controlHeight': 18,
+'n_sliderWidth': 42,
+'n_sliderHeight': 20,
+'n_pathLeft' : 6,
+'n_pathTop' : 2,
+'n_pathLength' : 127,
+'s_imgControl': '/img/background.png',
+'s_imgSlider': '/img/r_bu.png',
+'n_zIndex': 0
+}
+var A_INIT4h = {
+'s_form' : null,
+'s_name': 'sl0slider',
+'n_minValue' : 1,
+'n_maxValue' : 7,
+'n_value' : 1,
+'n_step' : 1
+}
+
+function go(i){
+frmTi.action = i;
+frmTi.submit();
+}
+</script>		 				
+
+<link rel="stylesheet" href="/css/main.css" type="text/css">
+<link rel="stylesheet" href="/css/common.css?n=1" type="text/css">
+<link rel="stylesheet" href="/css/datasheet_view.css" type="text/css">
+<link rel="stylesheet" href="/html-pdf/27349/TI/SN7404/38/1/pdf-view.css" type="text/css">
+</script>
+<script type="text/javascript">
+dataLayer = [{ 'SearchWord': 'SN7404',  'Manufacturer': 'Texas Instruments' , 'Pages': 'Html', 'Domain': 'com' }];
+</script>
+
+</head>
+<BODY topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0"><div id="dbug"></div>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-BBS7G');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-BBS7G" height="0" width="0" style="display:none;visibility:hidden">
+</iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<form name="frmTi" class="formsupplylineya" method="POST" action="" target="_blank"></form>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="/js/jquery-3.1.1.min.js"></script>
+<style>
+.formsupplylineya{
+display:inline;
+}
+/*
+반응형
+*/
+@media (min-width:600px) and (max-width:700px)
+{
+#sSort{
+font-size:15px !important;
+}
+}
+@media (min-width:700px) and (max-width:800px)
+{
+#sSort{
+font-size:16px !important;
+}
+}
+@media (min-width:800px) and (max-width:900px)
+{
+#sSort{
+font-size:17px !important;
+}
+}
+@media (min-width:900px) and (max-width:1022px)
+{
+#sSort{
+font-size:18px !important;
+}
+}
+@media (min-width:0px) and (max-width:1023px)
+{
+/*#modowny{display:none;}*/
+#tb1dp{width:100%;}
+.leftrighteoyotd {width:35px !important;}
+.leftrighteoyoimg {width:30px !important; height:30px !important;}
+.eightimg{width:60px !important; height:80px !important;}
+.nineimg{width:65px !important; height:90px !important;}
+input{outline:none;}
+#searchclearyo{
+position:unset !important;
+color:#336699 !important;
+width:100% !important;
+font-weight:bold;
+}
+.margintopyo{
+margin-top:30px;
+}
+.margintopyopreview{
+margin-top:90px;
+}
+.margintopyohtml{
+margin-top:63px;
+}
+.width100yo
+{
+width:100% !important;
+}
+.overflowyo{
+overflow:auto;
+-webkit-overflow-scrolling:touch;
+}
+#mobilemenuyo{
+padding-top:105px;
+overflow:auto;
+-webkit-overflow-scrolling:touch;
+}
+#sSort{
+background:#f5f5f5 !important;
+text-align-last:center;
+}
+/*
+mobile 검색 기록 ~~
+*/
+.dim-layer-s{
+display:none !important;
+}
+/*
+mobile top keywords, new datasheets
+*/
+#newdatasheeeyo
+	{
+	font-size:1.2em;
+	}
+#motopkeywords{
+font-size:1.2em;
+}
+#allogoyo{
+padding:5px 0px;
+}
+#mofixed{
+position:fixed;
+z-index:999;
+}
+/*
+검색창
+*/
+#searchfirstyo{
+width:100% !important;
+}
+/*메인 서플라이 옆*/
+.mainleftyo
+	{
+	display:none;
+	}
+#frmMore
+	{
+	display:none;
+	}
+#justify
+{
+overflow:auto;
+-webkit-overflow-scrolling:touch;
+}
+#searchborder{
+background:#fff;
+border:2px solid #336699;
+margin:0px 10px 0px 10px;
+border-radius:0.5em;
+height:45px !important;
+}
+#supplyyo{
+}
+.mobilepd{
+border-radius:0.3em;
+text-align:center;
+font-weight:bold;
+line-height:45px;
+float:left;
+border:none;
+font-size:12px !important;
+color:#336699;
+letter-spacing:0.01em;
+text-decoration:none;
+width:20% !important;
+height:100% !important;
+}
+#mobilelogoyo{
+text-align:center;
+line-height:45px;
+float:left;
+font-size:2em;
+color:#336699;
+text-decoration:none;
+width:15% !important;
+height:100% !important;
+}
+/*
+모바일 상단 shortcut등 제거
+*/
+.mobilexyo
+	{
+	display:none;
+	}
+#sf_sep{
+display:none;
+}
+/*
+열
+*/
+.nv_black_bold{
+text-align:center;
+width:unset !important;
+}
+.widthunsetyo{
+width:unset !important;
+}
+/*
+모바일 하단
+*/
+.alldatabottom{
+display:none;
+}
+/*
+상단 메뉴
+*/
+#alldatasheetmanufcturer{
+margin-top:62px;
+}
+/*
+검색창 고정
+*/
+.searchfixed{
+position:fixed;
+width:100% !important;
+height:auto !important;
+background:#97b6d6;
+padding:8px 0px;
+z-index:999;
+}
+.abclogoyo{
+width:90px !important;
+height:30px !important;
+}
+.abclogotr{
+width:90px !important;
+height:30px !important;
+}
+#percentyo{
+width:100% !important;
+}
+#sf_sep{
+overflow:auto;
+-webkit-overflow-scrolling:touch;
+}
+#linkurl{
+width:100% !important;
+}
+.nv p{
+font-size:20px !important;
+}
+.nv A:link{
+font-size:15px !important;
+margin:5px !important;
+}
+.notnv A:link{
+font-size:15px !important;
+margin:0px !important;
+}
+.newdatasheetyo
+{
+display:none;
+}
+#mobiletestyo{
+width:95%;
+}
+.search_nv{
+}
+#tdnews{
+width:100% !important;
+}
+.btn-example{
+display:none !important;
+}
+.div_search{
+width:100% !important;
+display:inline !important;
+}
+.searchwordyo{
+padding-left:5px !important;
+font-size:1.2em !important;
+border:none;
+width:55% !important;
+height:100% !important;
+}
+#frmSubmit{
+width:15% !important;
+background:#f5f5f5;
+background-size:50% !important;
+color:unset;
+float:right;
+height:100% !important;
+border:none;
+border-radius:0.3em;
+text-indent:120%;
+background-image:url("//www.alldatasheet.net/searchimg.png");
+background-size:20px !important;
+background-repeat:no-repeat;
+background-position-x:center;
+background-position-y:center;
+}
+#mobilesangdan{
+width:unset !important;
+height:unset !important;
+}
+#pctop{display:none;}
+#popularyo{
+display:none;
+}
+#up_table{width:100% !important;}
+}
+/*
+반응형 pc
+*/
+@media (min-width:1024px) and (max-width:10000px){
+#sSort{height:39px !important;}
+#sSearchword, #frmSubmit, #frmMore{
+height:40px !important;
+}
+.mobilemanyodivyo{
+display:none !important;
+}
+#layer_sField, #select_mfg{
+background:#fff;
+}
+.mobilemanyo{
+display:none;
+}
+#mofixed
+	{
+	padding:5px 0px;
+	}
+#mobilelanguage
+	{
+	display:none;
+	}
+/*mobile 상단 로고글 */
+#allogoyo{
+display:none !important;
+}
+#mobilelogoyo{
+display:none;
+}
+#mobiletop{display:none;}
+#mobiletestyo{
+width:728px;
+}
+#mobilejustify
+{
+display:none;
+}
+#newdatasheeeyo{
+display:none;
+}
+}
+/*
+반응형 끝
+*/
+/* 검색창 고정시킴  */
+#layer-s{
+top:104px !important;
+}
+</style>
+
+</head>
+<script language="JavaScript">
+<!--
+function InputCheck(theForm,tmpChk) {
+	if (tmpChk==3) {
+		   if (theForm.sSearchword.value.replace(/ /gi,"").length < 2) {
+			alert("Please, You must input more than one characters !!");
+			theForm.sSearchword.focus();
+			return (false);
+		   }
+		} else {
+		   if (theForm.sSearchword.value.replace(/ /gi,"").length < 3) {
+			alert("Please, You must input more than two characters !!");
+			theForm.sSearchword.focus();
+			return (false);
+		   }
+		}
+if (hanchk(theForm.sSearchword.value) == 2 ) {
+alert("Invalid search word! Please use the alphabet, numbers, symbols(+,-,_./...).");
+theForm.sSearchword.focus();
+return (false);
+}
+if(tmpChk==1) theForm.action = "//www.alldatasheet.com/view.jsp?Searchword=" + theForm.sSearchword.value.toUpperCase(); 
+else if(tmpChk==5) theForm.action = "//www.alldatasheet.com/view_datasheet.jsp?Searchword=" + theForm.sSearchword.value.toUpperCase();  
+else if(tmpChk==3) theForm.action = "//www.alldatasheet.com/view_marking.jsp?Searchword=" + theForm.sSearchword.value.toUpperCase();  
+else if(tmpChk==4) theForm.action = "//www.alldatasheet.com/view_package.jsp?Searchword=" + theForm.sSearchword.value.toUpperCase();
+else theForm.action = "//www.alldatasheet.com/category/index.jsp?sSearchword=" + theForm.sSearchword.value.toUpperCase();
+theForm.seekcls.value='ON';
+return(true);
+}
+function hanchk(str){
+for(i = 0 ; i < str.length ;i++){
+var code = str.charCodeAt(i);
+var ch= str.substr(i,1).toUpperCase();
+code= parseInt(code);
+if((ch < "0" || ch > "9") && (ch <"A" || ch >"Z") && ((code >255) || (code < 0)))
+return 2;
+}
+return 1;
+}
+function radioCheck() {
+	for(var i=0; i<frmSearch.sOption.length; i++){
+	if(frmSearch.sOption[i].checked==true) { 
+	return frmSearch.sOption[i].value;
+	}
+	}
+}
+function radioCheck2() {
+	for(var i=0; i<frmSearch.sOption.length; i++){
+	if(frmSearch.sOption[i].checked==true) { 
+	if(frmSearch.sOption[i].value==2){ 
+	frmSearch.sField.value=4;
+	frmSearch.sField.disabled=true; 
+	}else{
+	frmSearch.sField.disabled=false;
+	}
+	}
+	}
+}
+//-->
+</script>
+<center id="pctop">
+<table cellpadding="0" cellspacing="0" width="100%" bgcolor="#336699" height="49" style="table-layout:fixed" border="0" width="100%" >
+	<tr>
+	<td height="60" width="300" align="center"><a href="//www.alldatasheet.com"><img  border="0" src="//www.alldatasheet.com/img/alldatasheet_logo/alldatasheet_title_s.gif" height="49" align="middle" loading="lazy" decoding="async" alt></a></td>
+	<td height="60" align="center"><b><font color="#ffffff" size="5">Electronic Components Datasheet Search</font></b></td>
+    <td align="right" width="270">
+    <table cellpadding="0" cellspacing="0" style="height: 30px;margin:4px">
+    	<tr>
+    	<!-- <td height="30"><font color="#ffffff" size="2"><b>Selected language 
+			&nbsp;</b></font></td> -->
+    		<td style="background-color:#215180;width:140px;" valign="middle" class="nv_top" >
+			&nbsp;<a href="javascript:showf()"><img border="0" src="//www.alldatasheet.com/img/alldatasheet_logo/com_fh.gif" align="baseline" loading="lazy" decoding="async" alt>
+    		<font color="white" size="2">   English &nbsp;▼</font></a></td>
+    		<td width="9"></td>
+    	</tr>
+    </table>
+			<span id="idflag" style="position:absolute;display:none;top:45px;z-index:1;" >
+			<table cellpadding="3" cellspacing="3" bgcolor="#215180">
+			<tr>
+			<td width="120" height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.com"><img border="0" src="/img/alldatasheet_logo/com_fh.gif" loading="lazy" decoding="async" alt>&nbsp;English</font></a></td>
+			<td width="120" height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheetcn.com/"><img border="0" src="/img/alldatasheet_logo/cn_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Chinese</font></a></td>
+			</tr>
+			<tr>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheetde.com/"><img border="0" src="/img/alldatasheet_logo/de_fh.gif" loading="lazy" decoding="async" alt>&nbsp;German</font></a></td>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.jp/"><img border="0" src="/img/alldatasheet_logo/jp_fh.gif" loading="lazy" decoding="async" alt><font color="white" size="2">&nbsp;Japanese</font></a></td>
+			</tr>
+			<tr>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheetru.com/"><img border="0" src="/img/alldatasheet_logo/ru_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Russian</font></a></td>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.co.kr/"><img border="0" src="/img/alldatasheet_logo/kr_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Korean</font></a></td>
+			</tr>
+			<tr>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.es/"><img border="0" src="/img/alldatasheet_logo/es_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Spanish</font></a></td>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.fr/"><img border="0" src="/img/alldatasheet_logo/fr_fh.gif" loading="lazy" decoding="async" alt>&nbsp;French</font></a></td>
+			</tr>
+			<tr>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheetit.com/"><img border="0" src="/img/alldatasheet_logo/it_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Italian</font></a></td>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheetpt.com/"><img border="0" src="/img/alldatasheet_logo/pt_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Portuguese</font></a></td>
+			</tr>
+			<tr>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.pl/"><img border="0" src="/img/alldatasheet_logo/pl_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Polish</font></a></td>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.vn/"><img border="0" src="/img/alldatasheet_logo/vn_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Vietnamese</font></a></td>			   
+			</tr>
+			<tr>
+			<td width="120" height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.in"><img border="0" src="/img/alldatasheet_logo/id_fh.gif" height="12" loading="lazy" decoding="async" alt>&nbsp;Indian</font></a></td>
+			<td width="120" height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.com.mx/"><img border="0" src="/img/alldatasheet_logo/mx_fh.gif" loading="lazy" decoding="async" alt>&nbsp;Mexican</font></a></td>
+			</tr>
+			<tr>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.co.uk/"><img border="0" src="/img/alldatasheet_logo/uk_fh.gif" loading="lazy" decoding="async" alt>&nbsp;British</font></a></td>
+			<td height="25"><font color="#ffffff" size="2" class="nv_top"><a href="//www.alldatasheet.co.nz/"><img border="0" src="/img/alldatasheet_logo/nz_fh.gif" loading="lazy" decoding="async" alt><font color="white" size="2">&nbsp;New Zealand</font></a></td>
+			</tr>
+			</table>
+		    </span>
+	</td>
+</tr></table>	
+</center>
+<div style="width:100% !important; background:#eeeeee;" id="mofixed">
+<table border="0" cellpadding="0" cellspacing="0" width="630" align="center" bgcolor="#eeeeee" id="searchfirstyo">
+<tr>
+<td id="allogoyo" style="text-align:center; color:#fff; background:#336699; font-size:20px; "><a href="//www.alldatasheet.com" style="color:#fff;text-decoration:none;">ALLDATASHEET.COM</a></td>
+</tr>
+<form name="frmSearch" method="post" action="/view.jsp" onsubmit="return InputCheck(frmSearch, document.getElementById('sSort').options[document.getElementById('sSort').selectedIndex].value)">
+<tr><td align="left" height="30" class="search_nv searchfixed">
+<div id="searchborder">
+<select name="sSort" id="sSort" class="mobilepd" onchange="chageLangSelect()" style="width:105px;height:30px;font-size:11pt; background:#fff;" aria-label="Select box with search option"><option value="1" label="Part #" selected>Part #</option><option value="2" label="Description">Description</option><option value="3" label="Marking">Marking</option></select>
+<div class="div_search">
+<input type="text" size="18" name="sSearchword" class="searchwordyo" id="sSearchword"  value="SN7404" style="width:400px; height:30px;font-size:11pt;padding-left: 5px;" aria-label="Search" autocomplete="off"><!--<span class="btn-example">Advanced</span>-->
+</div>
+<div style="display:inline-block; width:8% !important;" class="mobilemanyodivyo">
+<p id="searchclearyo" style="display:inline-block; background:none;" align="right">X&nbsp;&nbsp;</p>
+</div>
+<input type="hidden" name="seekcls" value="">
+<input type="hidden" name="sField" value="0">
+<input type="button" id="frmSubmit" value=" " style="width:50px; height:30px;font-size:11pt;" aria-label="more button"> <input type="button" id="frmMore" value=" " style="width:25px; height:30px;font-size:11pt;" aria-label="more button">
+</td></tr>
+</form>
+<tr id="tableMore" style="display:none"><td align="left" height="30" class="search_nv">
+<select name="layer_sField" id="layer_sField" style="width:105px;height:30px;font-size:11pt;">
+<option value="0" selected>Match&Start</option>
+<option value="4">Match</option>
+<option value="2">Start with</option>
+<option value="3">End</option>
+<option value="1">Included</option>
+</select>
+<select name="select_mfg" id="select_mfg" style="width:400px; height:30px;font-size:11pt;">
+<option value="" selected>All Manufacturers</option>
+</select>
+</div>
+</td></tr>
+</table>
+</div>
+<script type="text/javascript">
+var sSearch = "LM324@1";
+var ck_value = "";
+var ck_auto="";
+function mfg_fill(){
+$.ajax({
+	type: "POST",
+	url: "/mfg_load.jsp",
+	cache: false,
+	async: true,
+	success: function (resultText)
+	{
+	$("#select_mfg").html(resultText);
+	},
+    error: function() {
+    }
+});
+}
+</script>
+<script language="javascript" src="/js/common.js?n=1"></script>
+<div id="mobilemenuyo"><table border="0" cellpadding="3" cellspacing="1" width="100%" class="main" bgcolor="#e4e4e4" >
+<tr><td bgcolor="#ffffff" height="30" align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="95%" align="center" class="main" style="table-layout:fixed">
+<tr align="left">
+<b><font color="#0066ff">
+<td class="menu" bgcolor="#ffffff" height="30" width="100" align="center">
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/27349/TI/SN7404.html"><font color="gray" size="3">Preview</font></a>
+</td>
+<td class="menu" bgcolor="#ffffff" height="30" width="100" align="center">
+<a href="//www.alldatasheet.com/datasheet-pdf/view/27349/TI/SN7404.html"><font color="gray" size="3">PDF</font></a>
+</td>
+<td class="menu" bgcolor="#ffffff" height="30" id="modowny" width="100" align="center">
+<a href="//www.alldatasheet.com/datasheet-pdf/download/27349/TI/SN7404.html"><font color="gray" size="3">Download</font></a>
+</td>
+<td class="menu" bgcolor="#ffffff" height="30" width="100" align="center" style="border-bottom:3px solid red;">
+<a href="/html-pdf/27349/TI/SN7404/20/1/SN7404.html"><font color="red" size="3"> HTML</font></a>
+</td>
+
+<td class="menu" id="nav-chat" bgcolor="#ffffff" height="30" width="110" align="center">
+	<a href="//www.alldatasheet.com/ai/chat.jsp?idx=27349&p=SN7404&m=TI"><font color="gray" size="3">Chat AI</font></a>
+</td>
+<style>
+#nav-chat {
+	position: relative
+}
+#nav-chat::after {
+	background: url(/ai/img/img_beta.png) no-repeat;
+	background-size: 40px 20px;
+	content: "";
+	display: inline-block;
+	width: 40px;
+	height: 20px;
+	position: absolute;
+	top: -3px;
+}
+@media (max-width: 767px) {
+    .menu {
+		width: 70px;
+    }
+}
+</style>
+<td bgcolor="#ffffff" height="30" width="70%" align="center">
+</td>
+</font></b>
+</td></tr></table>
+</td></tr></table></div>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center"  width="95%" style="table-layout:fixed"><tr><td height="6"></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="95%" align="center"><tr><td>
+<nobr><h2 class="h2view newdatasheetyo"> SN7404 Datasheet(PDF) 1 Page - Texas Instruments</h2></nobr></td></tr></table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="95%" align="center"><tr><td><table><tr><td style="border-collapse:collapse; border:1px gray solid;background-color:yellow;" ><a href="https://www.ti.com/lit/gpn/sn74ls04?HQS=TI-null-null-alldatasheets-df-pf-SEP-wwe" target="_blank">Click here</a> to check the latest version.</td></tr></table></td></tr></table>
+<div class="overflowyo">
+<table border="0" cellpadding="0" cellspacing="0" align="center" height="auto" width="95%" id="up_table">
+<tr><td class="newdatasheetyo" valign="top" height="320">
+<table id="tdnews" border="0" cellpadding="0" cellspacing="0" class="preview" style="table-layout:fixed">
+<tr><td  width="100" class="gray_title" height="40"> Part #</td><td>&nbsp;SN7404</td></tr>
+<tr><td  height="3" colspan="2" width="100"></td></tr>
+<tr><td class="gray_title" width="100" height="50">Description</td>
+<td>&nbsp;<a rel="noopener" href ="//www.alldatasheet.com/category/index.jsp?components=THESE">These</a> <a rel="noopener" href ="//www.alldatasheet.com/category/index.jsp?components=DEVICES">devices</a> <a rel="noopener" href ="//www.alldatasheet.com/category/index.jsp?components=CONTAIN">contain</a> <a rel="noopener" href ="//www.alldatasheet.com/category/index.jsp?components=SIX">six</a> <a rel="noopener" href ="//www.alldatasheet.com/category/index.jsp?components=INDEPENDENT">independent</a> <a rel="noopener" href ="//www.alldatasheet.com/category/index.jsp?components=INVERTERS">inverters</a> </td></tr>
+<tr><td  height="3" colspan="2" width="100"></td></tr>
+<tr><td  width="100" class="gray_title" height="40"> Download</td><td>&nbsp;<a target="_self" href="//www.alldatasheet.com/datasheet-pdf/view/27349/TI/SN7404.html"><img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt></a> 7 Pages</td></tr>
+<tr><td  height="3" colspan="2" width="100"></td></tr>
+<tr><td  width="100" class="gray_title" height="40">Scroll/Zoom</td><td><script>new slider(A_INIT4h, A_TPL4h);</script>
+<nobr><a onclick="javascript:zoomIn(); return false" href="#"><img border="0" alt="Zoom In" src="/img/alldatasheet_other/html_img/zoomin.gif" width="20" height="20" loading="lazy" decoding="async" alt></a>
+<font size="2"><span id="zoomDP" style="font-family: Tahoma, dotum, arial, verdana; ">100%&nbsp;</span></font></b>
+<a onclick="javascript:zoomOut(); return false" style="color: rgb(0, 0, 0); text-decoration: none; " href="#"><img border="0" alt="Zoom Out" src="/img/alldatasheet_other/html_img/zoomout.gif" width="20" height="20" loading="lazy" decoding="async" alt></a></nobr></td></tr>				
+<tr><td  height="3" colspan="2" width="100"></td></tr>
+<tr><td  height="40"class="gray_title" width="100">Manufacturer</td> <td style="word-break:break-all;" width="235">&nbsp;TI&nbsp;[Texas Instruments]</td></tr>
+<tr><td  height="3" colspan="2" width="100"></td></tr>
+<tr><td  height="40" class="gray_title" width="100">Direct Link</td> <td style="word-break:break-all;" width="235">&nbsp;http://www.ti.com</td></tr>
+<tr><td  height="3" colspan="2" width="100"></td></tr>
+<tr><td  height="50" class="gray_title" width="100">Logo</td><td>&nbsp;<img src="//www.alldatasheet.com/img/alldatasheet_other/company_logo/158TI.GIF" width="150" height="50" loading="lazy" decoding="async" alt="TI - Texas Instruments"></td></tr>
+<tr><td  height="3" colspan="2"></td></tr>
+</table></td>
+<td id="idAD1" style="width:10px;" class="newdatasheetyo"></td>
+<td id="idAD2" align="center" class="notnv">
+<div id="sf_ad" style="position:relative;overflow:hidden;" class="cssZoom">
+<div id="sfm_ad_zone_725x323"></div>
+</div>
+<script type="text/javascript">
+(function() {
+// Set the ad render location to match the div ID
+var adRenderLocation = 'sfm_ad_zone_725x323'; // Update to match your div ID
+// Set the zone ID for your ad zone
+var zoneId = 447; // Update this to your zone ID
+// Set search term, this should be replaced with a search term
+var term = 'SN7404';
+// Additional script logic (leave unchanged)
+var m3_r = Math.floor(Math.random() * 99999999999);
+var m3_u = 'https://ads.supplyframe.com/openads/www/delivery/ajs.php';
+var charset = (document.charset ? '&charset=' + document.charset : (document.characterSet ?
+'&charset=' + document.characterSet : ''));
+var url = m3_u + '?zoneid=' + zoneId;
+if (document.MAX_used != undefined && document.MAX_used != ',') url += '&exclude=' +
+document.MAX_used;
+if (charset) url += charset;
+url += '&loc=' + escape(window.location);
+if (document.referrer) url += '&referer=' + escape(document.referrer);
+if (document.context) url += '&context=' + escape(document.context);
+if (document.mmm_fo) url += '&mmm_fo=1';
+url += '&n=' + m3_r;
+url += '&term=' + term;
+url += '&adRenderElement=' + adRenderLocation;
+try {
+// Insert the ad script into the document
+var head = document.getElementsByTagName('head')[0];
+var adScriptElement = document.createElement("script");
+adScriptElement.src = url;
+adScriptElement.type = 'text/javascript';
+adScriptElement.async = true;
+head.appendChild(adScriptElement);
+} catch (e) {
+document.getElementById(adRenderLocation).remove();
+}
+})();
+</script>
+<style>
+:root {--czoom: 1.0;}
+.cssZoom #sfm_ad_zone_725x323{
+	-ms-zoom: var(--czoom);
+	-moz-transform: scale(var(--czoom));
+	-moz-transform-origin: 0 0;
+	-o-transform: scale(var(--czoom));
+	-o-transform-origin: 0 0;
+	-webkit-transform: scale(var(--czoom));
+	-webkit-transform-origin: 0 0;
+	transform: scale(var(--czoom));
+	transform-origin: 0 0;	
+}
+</style>
+</td>
+</tr></table></div>
+<br>
+<table class="mobilemanyo" border="0" cellpadding="0" cellspacing="0" width="95%" align="center"><tr><td>
+<h2 class="h2view" style="white-space:normal"> SN7404 Datasheet(HTML) 1 Page - Texas Instruments</h2></nobr></td></tr></table>
+<table border="0" cellSpacing="0" cellPadding="0" width="100%" bgColor="#DEDEDE" height="120" style="TABLE-LAYOUT:fixed;border: 1px solid #000000;">
+<tr valign="bottom" >
+<td bgColor="#eeeeee" align="left" vAlign="top">
+<div id="dp" class="overflowyo">
+
+<table id="tb1dp" border="0" cellSpacing="0" cellPadding="0" bgColor="#eeeeee" height="100" style="TABLE-LAYOUT:fixed;">
+<tr vAlign="middle">
+<td style="CURSOR: pointer" ondblclick="javascript:s_L();" onclick="javascript:s_L();" width="25">&nbsp;</td>
+					
+
+<td width="90"><img border="1" src="/htmldatasheet/27349/TI/SN7404/38/1/SN7404.gif" width="85" height="110" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 1Page - Texas Instruments "></td>
+
+
+<td width="85"><a href="/html-pdf/27349/TI/SN7404/45/2/SN7404.html"><img border="0" src="/htmldatasheet/27349/TI/SN7404/83/2/SN7404.gif"  width="80" height="100" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 2Page - Texas Instruments "></a></td>
+
+
+<td width="85"><a href="/html-pdf/27349/TI/SN7404/70/3/SN7404.html"><img border="0" src="/htmldatasheet/27349/TI/SN7404/128/3/SN7404.gif"  width="80" height="100" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 3Page - Texas Instruments "></a></td>
+
+
+<td width="85"><a href="/html-pdf/27349/TI/SN7404/95/4/SN7404.html"><img border="0" src="/htmldatasheet/27349/TI/SN7404/173/4/SN7404.gif"  width="80" height="100" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 4Page - Texas Instruments "></a></td>
+
+
+<td width="85"><a href="/html-pdf/27349/TI/SN7404/120/5/SN7404.html"><img border="0" src="/htmldatasheet/27349/TI/SN7404/218/5/SN7404.gif"  width="80" height="100" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 5Page - Texas Instruments "></a></td>
+
+
+<td width="85"><a href="/html-pdf/27349/TI/SN7404/145/6/SN7404.html"><img border="0" src="/htmldatasheet/27349/TI/SN7404/263/6/SN7404.gif"  width="80" height="100" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 6Page - Texas Instruments "></a></td>
+
+
+<td width="85"><a href="/html-pdf/27349/TI/SN7404/170/7/SN7404.html"><img border="0" src="/htmldatasheet/27349/TI/SN7404/308/7/SN7404.gif"  width="80" height="100" loading="lazy" decoding="async" alt="SN7404 Datasheet HTML 7Page - Texas Instruments "></a></td>
+
+<td style="CURSOR: pointer" ondblclick="javascript:s_R();" onclick="javascript:s_R();"  valign="middle" width="25">&nbsp;</td>
+</tr></table></div>
+<script language="javascript">
+n  = document.layers;
+ie = document.all;
+if(ie || n) document.write('<div id="Load" style="filter:Alpha(Opacity=60); cursor:walt; position: relative; z-index: 1;background-color:#ffffff;width: 100%; height: 100%" align=center></div>')
+</script>
+</td></tr></table>
+<div class="mobilemanyo" style="text-align:center; margin:15px 0px;"><a onclick="javascript:zoomIn(); return false" style="color: rgb(0, 0, 0); text-decoration: none; font-size:1.5em; border:1px solid gray; " href="#"><img border="0" alt="Zoom In" src="/img/alldatasheet_other/html_img/zoomin.gif" width="20" height="20" loading="lazy" decoding="async" alt>zoom in</a>
+<a onclick="javascript:zoomOut(); return false" style="color: rgb(0, 0, 0); text-decoration: none; font-size:1.5em; border:1px solid gray; " href="#"><img border="0" alt="Zoom Out" src="/img/alldatasheet_other/html_img/zoomout.gif" width="20" height="20" loading="lazy" decoding="async" alt>zoom out</a></div>
+<div class="overflowyo"> 
+
+<table id="tt" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#C0C0C0"><tr><td  align="center">
+<div id="contents" align="center" style='border:3; font-size:0px;  height:1300; position:relative; cursor:move; overflow:auto; z-index:0;overflow-x:hidden; overflow-y:hidden; background:#C0C0C0'><div style="position: absolute; z-index: 1"><font color="#808080" size="3">&nbsp;<font color="red">1</font> / 7 page</font></div><DIV style="position:relative;width:918;height:1188;"><IMG width="918" height="1188" src="//www.alldatasheet.com/htmldatasheet2/27349/TI/SN7404/20/1/SN7404.png" alt="background image"><nobr></nobr></DIV></div></td><td align="left" valign="top">	
+
+</td></tr></table></div>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var code="/html-pdf/27349/TI/SN7404/20/1/SN7404.html";
+d_s=1;
+d_e=7;
+dps=7;
+dp_set();
+-->
+</SCRIPT>
+<br>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1946140099700194";
+/* alldatasheeten_html */
+google_ad_slot = "0355087553";
+google_ad_width = 728;
+google_ad_height = 90;
+if (matchMedia("screen and (max-width: 728px)").matches) {
+	google_ad_width = 300;
+}
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br>
+
+<div class="overflowyo"><table border="0" cellspacing="1" cellpadding="0" width="95%" align="center"><tr><td valign="bottom" height="22"><h2 class="h2view">Similar Part No. - SN7404<font color=#bcbcbc></font></h2></td></tr></table>
+<table width="95%" border="0" cellpadding="1" align="center" cellspacing="0" class="width100yo"><tr><td valign="top">
+<table width="100%" height="100%"" border="0" bgcolor="#cccccc" cellpadding="1" cellspacing="1" class="main" align="center">
+<tr bgcolor="#eeeeee"><td width="180" class="nv_black_bold">Manufacturer</td><td width="15%" class="nv_black_bold">Part #</td><td width="10%" class="nv_black_bold">Datasheet</td><td class="nv_black_bold">Description</td></tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="5" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/158TI.GIF" width="150" height="50" loading="lazy" decoding="async" alt="Texas Instruments"><br>Texas Instruments</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/177050/TI/SN7404.html"><b>SN7404</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/177050/TI/SN7404.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="TI-SN7404 Datasheet"></a>
+<br><span class="mobileblock">626Kb</span> <span class="mobileslash">/</span> <span>23P</span></td>
+<td><font color=red>[Old version datasheet]</font>&nbsp;&nbsp;&nbsp;HEX INVERTERS
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/837624/TI1/SN7404.html"><b>SN7404</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/837624/TI1/SN7404.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="TI1-SN7404 Datasheet"></a>
+<br><span class="mobileblock">1Mb</span> <span class="mobileslash">/</span> <span>25P</span></td>
+<td><font color=red>[Old version datasheet]</font>&nbsp;&nbsp;&nbsp;HEX INVERTERS
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/89857/TI/SN7404D.html"><b>SN7404D</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/89857/TI/SN7404D.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="TI-SN7404D Datasheet"></a>
+<br><span class="mobileblock">148Kb</span> <span class="mobileslash">/</span> <span>10P</span></td>
+<td><font color=red>[Old version datasheet]</font>&nbsp;&nbsp;&nbsp;HEX INVERTERS
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/177056/TI/SN7404D.html"><b>SN7404D</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/177056/TI/SN7404D.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="TI-SN7404D Datasheet"></a>
+<br><span class="mobileblock">626Kb</span> <span class="mobileslash">/</span> <span>23P</span></td>
+<td><font color=red>[Old version datasheet]</font>&nbsp;&nbsp;&nbsp;HEX INVERTERS
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/837630/TI1/SN7404D.html"><b>SN7404D</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/837630/TI1/SN7404D.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="TI1-SN7404D Datasheet"></a>
+<br><span class="mobileblock">1Mb</span> <span class="mobileslash">/</span> <span>25P</span></td>
+<td><font color=red>[Old version datasheet]</font>&nbsp;&nbsp;&nbsp;HEX INVERTERS
+</td>
+</tr>
+</table>
+</td></tr></table>
+<center>
+<a href="//www.alldatasheet.com/view.jsp?Searchword=SN7404" style="font-size: 11pt">More results</a>
+</center>
+</div>
+<br>
+
+<div class="overflowyo"><table border="0" cellspacing="1" cellpadding="0" width="95%" align="center"><tr><td valign="bottom" height="22"><h2 class="h2view">Similar Description - SN7404</h2></td></tr></table>
+<table width="95%" border="0" cellpadding="1" align="center" cellspacing="0" class="width100yo"><tr><td valign="top">
+<table width="100%" height="100%"" border="0" bgcolor="#cccccc" cellpadding="1" cellspacing="1" class="main" align="center">
+<tr bgcolor="#eeeeee"><td width="180" class="nv_black_bold">Manufacturer</td><td width="15%" class="nv_black_bold">Part #</td><td width="10%" class="nv_black_bold">Datasheet</td><td class="nv_black_bold">Description</td></tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="1" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/158TI.GIF" width="150" height="50" loading="lazy" decoding="async" alt="Texas Instruments"><br>Texas Instruments</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/522014/TI/SN74AC04DRG4.html"><b>SN74AC04DRG4</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/522014/TI/SN74AC04DRG4.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="TI-SN74AC04DRG4 Datasheet"></a>
+<br><span class="mobileblock">1Mb</span> <span class="mobileslash">/</span> <span>20P</span></td>
+<td><font color=red>[Old version datasheet]</font>&nbsp;&nbsp;&nbsp;The ?쁀C04 devices contain six independent inverters. The devices perform the Boolean function Y = A.
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="1" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/49ETC.GIF" width="150" height="50" loading="lazy" decoding="async" alt="List of Unclassifed Manufacturers"><br>List of Unclassifed Man...</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/82662/ETC/7404.html"><b>7404</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/82662/ETC/7404.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="ETC-7404 Datasheet"></a>
+<br><span class="mobileblock">178Kb</span> <span class="mobileslash">/</span> <span>1P</span></td>
+<td>&nbsp;&nbsp;&nbsp;Package contains six inverters
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="1" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/565IKSEMICON.GIF" width="150" height="50" loading="lazy" decoding="async" alt="IK Semicon Co., Ltd"><br>IK Semicon Co., Ltd</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/747704/IKSEMICON/IN74LS04.html"><b>IN74LS04</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/747704/IKSEMICON/IN74LS04.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="IKSEMICON-IN74LS04 Datasheet"></a>
+<br><span class="mobileblock">156Kb</span> <span class="mobileslash">/</span> <span>4P</span></td>
+<td>&nbsp;&nbsp;&nbsp;This device contains six independent inverts
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="2" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/1606UMW.GIF" width="150" height="50" loading="lazy" decoding="async" alt="Guangdong Youtai Semiconductor Co., Ltd."><br>Guangdong Youtai Semico...</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/1785181/UMW/LESD8D5.0CAT5G.html"><b>LESD8D5.0CAT5G</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/1785181/UMW/LESD8D5.0CAT5G.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="UMW-LESD8D5.0CAT5G Datasheet"></a>
+<br><span class="mobileblock">379Kb</span> <span class="mobileslash">/</span> <span>4P</span></td>
+<td>&nbsp;&nbsp;&nbsp;These are Pb−Free Devices
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/1785180/UMW/LESD8D3.3CAT5G.html"><b>LESD8D3.3CAT5G</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/1785180/UMW/LESD8D3.3CAT5G.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="UMW-LESD8D3.3CAT5G Datasheet"></a>
+<br><span class="mobileblock">468Kb</span> <span class="mobileslash">/</span> <span>4P</span></td>
+<td>&nbsp;&nbsp;&nbsp;These are Pb−Free Devices
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="1" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/87LITTELFUSE.GIF" width="150" height="50" loading="lazy" decoding="async" alt="Littelfuse"><br>Littelfuse</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/210014/LITTELFUSE/SMD0603.html"><b>SMD0603</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/210014/LITTELFUSE/SMD0603.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="LITTELFUSE-SMD0603 Datasheet"></a>
+<br><span class="mobileblock">78Kb</span> <span class="mobileslash">/</span> <span>1P</span></td>
+<td>&nbsp;&nbsp;&nbsp;These devices offer wide range in hold currents
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="1" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/706POWER.GIF" width="150" height="50" loading="lazy" decoding="async" alt="Lowpower Semiconductor inc"><br>Lowpower Semiconductor ...</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/725925/POWER/LPM3400.html"><b>LPM3400</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/725925/POWER/LPM3400.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="POWER-LPM3400 Datasheet"></a>
+<br><span class="mobileblock">283Kb</span> <span class="mobileslash">/</span> <span>7P</span></td>
+<td>&nbsp;&nbsp;&nbsp;These devices are particularly suitable for low voltage
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="1" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/211INFINEON.GIF" width="150" height="50" loading="lazy" decoding="async" alt="Infineon Technologies AG"><br>Infineon Technologies A...</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/1238242/INFINEON/IRS23365DM.html"><b>IRS23365DM</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/1238242/INFINEON/IRS23365DM.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="INFINEON-IRS23365DM Datasheet"></a>
+<br><span class="mobileblock">594Kb</span> <span class="mobileslash">/</span> <span>37P</span></td>
+<td>&nbsp;&nbsp;&nbsp;Drives up to six IGBT/MOSFET power devices
+<br><font color=aaaaaa>3 December, 2012</font></td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td rowspan="2" valign="top">
+<img class="abclogoyo" alt="logo" border="1" src="/img/alldatasheet_other/company_logo/75IRF.GIF" width="150" height="50" loading="lazy" decoding="async" alt="International Rectifier"><br>International Rectifier</td>
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/573381/IRF/IRS23365DMPBF.html"><b>IRS23365DMPBF</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/573381/IRF/IRS23365DMPBF.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="IRF-IRS23365DMPBF Datasheet"></a>
+<br><span class="mobileblock">594Kb</span> <span class="mobileslash">/</span> <span>37P</span></td>
+<td>&nbsp;&nbsp;&nbsp;Drives up to six IGBT/MOSFET power devices
+</td>
+</tr>
+
+<tr bgcolor="#ffffff" class="nv_td">
+
+<td>
+<a href="//www.alldatasheet.com/datasheet-pdf/pdf/729840/IRF/AUIRS2336S_15.html"><b>AUIRS2336S</b></a>
+</td>
+<td><a href="//www.alldatasheet.com/datasheet-pdf/pdf/729840/IRF/AUIRS2336S_15.html">
+<img src="/img/alldatasheet_other/etc/electronic_parts_datasheet.gif" border="0" width="24" height="23" loading="lazy" decoding="async" alt="IRF-AUIRS2336S_15 Datasheet"></a>
+<br><span class="mobileblock">665Kb</span> <span class="mobileslash">/</span> <span>37P</span></td>
+<td>&nbsp;&nbsp;&nbsp;Drives up to six IGBT/MOSFET power devices
+</td>
+</tr>
+</table>
+</td></tr></table>
+<center>
+<a href="//www.alldatasheet.com/category/index.jsp?components=These devices contain six independent inverters" style="font-size: 11pt">More results</a>
+</center>
+</div>
+<br>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#ffffff"><tr><td  align="center">
+<tr><td align="center" valign="middle" height="50">
+<div align="center">
+<table border="0" cellSpacing="0" cellPadding="0"  bgcolor="#FFFFFF" width="95%">
+<tr>
+<td align="center"  valign="middle" height="40">
+<br>
+<style>
+.page {
+    line-height : 48px;
+    display : inline-block;
+}
+.page A {
+    padding : 8px;
+    margin : 6px;
+}
+.page2 A {
+    border: 1px solid #90b9d2;
+    padding: 8px;
+    margin: 6px;
+    font-size: 9pt;
+    color: #fff;
+    background-color: #369;
+}
+</style>
+<h2 class="h2view" align="left">Html Pages</h2>
+<h2 class="h2view" align="left">
+
+<span align="left"  class="page2"><a href="/html-pdf/27349/TI/SN7404/20/1/SN7404.html" onMouseOver="window.status='1 Page';return true;" onMouseOut="window.status='';return true;" > 1</a></span>
+
+<span align="left"  class="page"><a href="/html-pdf/27349/TI/SN7404/45/2/SN7404.html" onMouseOver="window.status='2 Page';return true;" onMouseOut="window.status='';return true;" > 2</a></span>
+
+<span align="left"  class="page"><a href="/html-pdf/27349/TI/SN7404/70/3/SN7404.html" onMouseOver="window.status='3 Page';return true;" onMouseOut="window.status='';return true;" > 3</a></span>
+
+<span align="left"  class="page"><a href="/html-pdf/27349/TI/SN7404/95/4/SN7404.html" onMouseOver="window.status='4 Page';return true;" onMouseOut="window.status='';return true;" > 4</a></span>
+
+<span align="left"  class="page"><a href="/html-pdf/27349/TI/SN7404/120/5/SN7404.html" onMouseOver="window.status='5 Page';return true;" onMouseOut="window.status='';return true;" > 5</a></span>
+
+<span align="left"  class="page"><a href="/html-pdf/27349/TI/SN7404/145/6/SN7404.html" onMouseOver="window.status='6 Page';return true;" onMouseOut="window.status='';return true;" > 6</a></span>
+
+<span align="left"  class="page"><a href="/html-pdf/27349/TI/SN7404/170/7/SN7404.html" onMouseOver="window.status='7 Page';return true;" onMouseOut="window.status='';return true;" > 7</a></span>
+
+</h2>
+<br>
+<h2 class="h2view" align="left">Datasheet Download</h2> 
+<a target="_self" href="//www.alldatasheet.com/datasheet-pdf/view/27349/TI/SN7404.html"><img src="/img/alldatasheet_other/etc/pdfdatasheet2.gif" loading="lazy" decoding="async" alt="Go To PDF Page" border="0" align="left"></a>
+<br></td></tr></table></div><br>
+</td></tr></table>
+
+<br><table border="0" cellpadding="0" cellspacing="0" width="95%" align="center"><tr><td><h2 class="h2view">Link URL</h2></td></tr><tr><td>
+<form id="Linkurl" name="Linkurl">
+<input id="linkurl" aria-label="Link URL" onclick="javascript:document.Linkurl.link.focus();document.Linkurl.link.select();" readOnly value="https://www.alldatasheet.com/html-pdf/27349/TI/SN7404/20/1/SN7404.html" name="link" size="100" style="color : #008000; font-size:13px"></center></form>
+</td></tr></table>
+<br>
+<center>
+
+</center>
+<br>
+<div id="mobilelanguage" style="margin-bottom:15px;">
+<br>
+<center>
+<select onchange="window.open(value,'_self');" style="background:#E2E7FF; color:#0000FF;" aria-label="Select Language">
+<option value="//www.alldatasheet.com" selected>English</option>
+<option value="//www.alldatasheetcn.com" >中文</option>
+<option value="//www.alldatasheet.co.kr" >한국어</option>
+<option value="//www.alldatasheet.es" >français</option>
+<option value="//www.alldatasheet.es" >español</option>
+<option value="//www.alldatasheet.jp" >日本語</option>
+<option value="//www.alldatasheetde.com" >Deutsch</option>
+<option value="//www.alldatasheetit.com" >italiano</option>
+<option value="//www.alldatasheetru.com" >русский</option>
+<option value="//www.alldatasheet.pl" >polski</option>
+<option value="//www.alldatasheetpt.com" >português</option>
+<option value="//www.alldatasheet.vn" >Tiếng việt</option>
+<option value="//www.alldatasheet.in" >Indian</option>
+<option value="//www.alldatasheet.com.mx" >Mexican</option>
+<option value="//www.alldatasheet.co.uk" >British</option>
+<option value="//www.alldatasheet.co.nz" >New Zealand</option>
+</select>
+</center>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" id="newdatasheeeyo" width="100%" bgcolor="#336699" align="center">
+<tr>
+<td align="center" class="nv_white" style="height:30px;">
+<a href="//interbird.com/company/privacy.html" style="font-size:1.3em" rel="noopener">Privacy Policy</a>
+</td>
+</tr>
+<tr>
+<td align="center" class="nv_white" style="height:30px; border-top:1px solid #fff;">ALLDATASHEET.COM</td>
+</tr>
+</table>
+<script language="javascript">
+var $ipt = $('#sSearchword'),
+$clearIpt = $('#searchclearyo');
+$ipt.keyup(function(){
+  $("#searchclearyo").toggle(Boolean($(this).val()));
+});
+$clearIpt.toggle(Boolean($ipt.val()));
+$clearIpt.click(function(){
+  $("#sSearchword").val('').focus();
+  $(this).hide();
+});
+function addbookmark(){
+if ((navigator.appVersion.indexOf("MSIE") > 0)&&(parseInt(navigator.appVersion)>= 4)) 
+	if(document.all)window.external.AddFavorite("http://www.alldatasheet.com","Alldatasheet.com - Electronic Component's Datasheet Search Site")}
+</script>
+<table class="newdatasheetyo" border="0" cellpadding="0" cellspacing="0" width=100%  bgcolor="#336699" align="center">
+<tr><td bgcolor="#d0f0ff" align="right" height="35" class="nv">
+<font color="#012c61" size="2"><b>Does ALLDATASHEET help your business so far?</b></font>&nbsp; <a href="//www.alldatasheet.com/donate.jsp"><font size="3">[&nbsp;DONATE&nbsp;]</font></a>&nbsp;
+</td>
+</tr>
+<tr>
+<td align="center" class="nv_white" style="line-height:20px;"><br><a href="//www.alldatasheet.com/bottom_bar/about_alldatasheet.jsp">About Alldatasheet</a>&nbsp; &nbsp;|&nbsp;&nbsp;
+<a href="//www.alldatasheet.com/bottom_bar/advertisement.jsp">Advertisement</a>&nbsp; &nbsp;|&nbsp;&nbsp; 
+<a href="//upload.alldatasheet.com">Datasheet Upload</a>&nbsp; &nbsp;|&nbsp;&nbsp;
+<a href="//www.alldatasheet.com/contactus.jsp">Contact us</a>&nbsp; &nbsp;|&nbsp;&nbsp;
+<a target="_blank" href="//interbird.com/company/privacy.html" rel="noopener">Privacy Policy</a>&nbsp; &nbsp;|&nbsp;&nbsp; 
+<!-- <a href="bottom_bar/alldatasheet_api.html">Alldatasheet API</font></a>&nbsp; &nbsp;|&nbsp;&nbsp;-->
+<a href="//www.alldatasheet.com/bottom_bar/link.jsp">Link Exchange</font></a>&nbsp; &nbsp;|&nbsp;&nbsp;
+<a href="//www.alldatasheet.com/manufacturer/a.jsp">Manufacturer List</a><br>
+All Rights Reserved©<a target="_top" href="//www.alldatasheet.com">Alldatasheet.com</a> 
+</font>
+<br><br></td>
+</tr>
+<tr><td align="center" class="nv_white" bgcolor="#215180"> <br><center>Mirror Sites</center>
+English :   <a href="//www.alldatasheet.com">Alldatasheet.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+English :    <a href="//www.alldatasheet.net">Alldatasheet.net</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Chinese : <a href="//www.alldatasheetcn.com">Alldatasheetcn.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+German :  <a href="//www.alldatasheetde.com">Alldatasheetde.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Japanese : <a href="//www.alldatasheet.jp">Alldatasheet.jp</a><br>
+Russian : <a href="//www.alldatasheetru.com">Alldatasheetru.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Korean : <a href="//www.alldatasheet.co.kr">Alldatasheet.co.kr</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Spanish : <a href="//www.alldatasheet.es">Alldatasheet.es</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+French : <a href="//www.alldatasheet.fr">Alldatasheet.fr</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Italian : <a href="//www.alldatasheetit.com">Alldatasheetit.com</a><br>
+Portuguese : <a href="//www.alldatasheetpt.com">Alldatasheetpt.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Polish : <a href="//www.alldatasheet.pl">Alldatasheet.pl</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Vietnamese : <a href="//www.alldatasheet.vn">Alldatasheet.vn</a><br>
+Indian : <a href="//www.alldatasheet.in">Alldatasheet.in</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Mexican : <a href="//www.alldatasheet.com.mx">Alldatasheet.com.mx</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+British : <a href="//www.alldatasheet.co.uk">Alldatasheet.co.uk</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+New Zealand : <a href="//www.alldatasheet.co.nz">Alldatasheet.co.nz</a><br></td></tr>
+<tr><td align="center" class="nv_white" bgcolor="#215180">
+Family Site :   <a href="//www.ic2ic.com">ic2ic.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="//www.icmetro.com">icmetro.com</a><br><br></td></tr>
+</table>   
+
+<script language="javascript">
+$(window).on("resize", function () {
+	if($(window).width() <725) {
+		var zoom = ($(window).width())  / 725;
+		var h =  $(window).width()*323 / 725;
+		document.documentElement.style.setProperty('--czoom', zoom);
+		document.getElementById("sf_ad").style.height = h;
+		document.getElementById("sf_ad").style.width = $(window).width();
+		document.getElementById("idAD2").style.width = 'auto';
+	} else {
+		document.documentElement.style.setProperty('--czoom', '1.0');
+		document.getElementById("sf_ad").style.height = '325px';
+		document.getElementById("sf_ad").style.width = '725px';
+		document.getElementById("idAD2").style.width = '725px';
+	}
+}).resize();
+</script>
+
+<!-- Google Code for mcc Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 924650831;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "LO0eCLmZhgkQz5r0uAM";
+var google_conversion_value = 1;
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" loading="lazy" decoding="async" alt="" src="//www.googleadservices.com/pagead/conversion/924650831/?value=1&amp;label=LO0eCLmZhgkQz5r0uAM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</BODY>
+</html>
